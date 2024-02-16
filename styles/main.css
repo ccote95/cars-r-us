@@ -1,0 +1,40 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.choices {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.options {
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: burlywood;
+}
+
+h1 {
+  margin-left: 25em;
+}
+
+.saveButton {
+  align-items: center;
+}
+
+.save {
+  margin-left: 50em;
+  margin-top: 40px;
+}
+
+.choices__wheel {
+  width: 50%;
+}
+
+#saveButton {
+  width: 100px;
+  height: 30px;
+  background-color: ;
+}
